@@ -1,7 +1,7 @@
 <DOCTYPE html>
 
 <head>
-	<title>s購物車</title>
+	<title>購物車</title>
 	<meta charset="utf-8" />
 </head>
 
