@@ -1,4 +1,4 @@
-DOCTYPE html>
+<DOCTYPE html>
 
 <head>
 	<title>s購物車</title>
